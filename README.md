@@ -6,10 +6,6 @@ The article addresses an issue brought to light in previous work showing that th
 
 
 
-fixing fundamental issue in the model
-
-
-
 
 
 
